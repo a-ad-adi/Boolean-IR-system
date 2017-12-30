@@ -1,0 +1,720 @@
+DocId : 0090
+Title : review for good morning, babylon (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Seen at the Seattle Film Festival: GOOD MORNING, BABYLON (USA/Italy, 1987) Directors: Paolo and Vittorio Taviani Story and Screenplay: Paolo and Vittorio Taviani; screenplay in collaboration with Tonino Guerra Cast: Vincent Spano, Joaquim De Almeida, Greta Scacchi, Desiree Becker, Omero Antonutti, and Carles Dance as D.W. Griffith Partially subtitled. This
+
+DocId : 0097
+Title : review for labyrinth (1986)
+Reviewer :  brian reid
+Rate : N 0 (Heuristic - complete review)
+Snippet :  PREFACE: I read a lot of movie reviews in this newsgroup, but I never see reviews of the movies that I see. That's because I mostly see movies with my two young daughters these days. When the kids spend 40 hours a week in day care I can't see
+
+DocId : 0130
+Title : review for nadine (1987)
+Reviewer :  dan frank
+Rate : N 0 (Heuristic - complete review)
+Snippet :  When we go to the movies, we generally resign ourselves to enjoying the films in spite of their imperfections. We say, "I enjoyed this light comedy, even though it was totally shallow and predictable," or "This was a fun excursion into empty-minded comic-book-style violence," or something of that sort.
+
+DocId : 0010
+Title : review for lethal weapon (1987)
+Reviewer :  james kawashima
+Rate : P 5 (scale based)
+Snippet :  This is a police thriller in the tradition of 48 HOURS and THE FRENCH CONNECTION. It's taut, well-executed, and not entirely predictable. It comes to us from Richard Donner, of SUPERMAN fame, who is noted for his interest in characterization and making the characters seem real and believable to
+
+DocId : 0098
+Title : review for roxanne (1987)
+Reviewer :  mark r. leeper
+Rate : P 1 (scale based)
+Snippet : Capsule review: Funny, intelligent updating of CYRANO DE BERGERAC has something to say about the nature of beauty without ever failing to entertain. Unfortunately, Martin's script cops out at the end, denying the audience the power of the end of CYRANO. Steve Martin's new film has the best plot of
+
+DocId : 0095
+Title : review for roxanne (1987)
+Reviewer :  steve miller
+Rate : P 3 (scale based)
+Snippet : Summary: Steve Martin plays Cyrano to Daryl Hannah's Roxanne in a modernized version of Rostand's play. This is mostly a vehicle for Martin, who plays a fire chief, rather than a swordsman. His physical acting ability is combined with some truly witty dialog, making for a very funny performance. Seeing
+
+DocId : 0096
+Title : review for mona lisa (1986)
+Reviewer :  mark r. leeper
+Rate : P 3 (scale based)
+Snippet : [This review was written last year. MONA LISA was recently released on videocassette, and since it had only a limited theatrical release, I thought it might be worth pointing out. People are encouraged to send me more reviews of lesser-known films when they come out on videocassette. -ecl] It has
+
+DocId : 0093
+Title : review for full metal jacket (1987)
+Reviewer :  stuart cracraft
+Rate : N 0 (Heuristic - complete review)
+Snippet :  FULL METAL JACKET is a disappointment. After a rabble-rousing first 5-10 minutes, the absurdly funny drill sergeant becomes repetitive and boring. The portrayal of a young, overweight recruit's difficulty in fitting in is interesting at first, but by the time all his comrades beat him senseless with towels-wrapped-with-soap, it
+
+DocId : 0094
+Title : review for sweet lorraine (1987)
+Reviewer :  miriam nadel
+Rate : N 0 (Heuristic - complete review)
+Snippet :  There used to be an ad for Levy's rye bread which said, "You don't have to be Jewish" and the sentiment is appropriate for this movie as well. The "Sweet Lorraine" of the title is a small Catskills hotel, suffering from competition with ritzier places. The plot is a
+
+DocId : 0092
+Title : review for ceddo (1978)
+Reviewer :  mark r. leeper
+Rate : P 1 (scale based)
+Snippet : Capsule review: Micro-epic from Senegal. The film is weak on style, acting, and pacing, but has a really good story. Never released in Senegal, nominally over a disagreement about the spelling of the title, but more likely for anti-Islamic sentiments. Imagine, if you will, a story written for Akira Kurosawa.
+
+DocId : 0006
+Title : review for radio days (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : I've been a little lax in getting out movie reviews -- imagine that this is the time to get down to it.... It's been a Woody Allen kinda week. Went and saw RADIO DAYS on Sunday, and then HANNAH AND HER SISTERS (for the second time). I thought HANNAH was
+
+DocId : 0127
+Title : review for back to the beach (1987)
+Reviewer :  terry laskodi
+Rate : N 0 (Heuristic - complete review)
+Snippet : "Aren't we the corniest couple you ever saw?" asks Annette Funicello at the end of BACK TO THE BEACH. And the answer is: a resounding yes!!! BACK TO THE BEACH is actually a parody of all of the "beach" movies of the early '60s Annette made with teen-age heartthrob Frankie
+
+DocId : 0007
+Title : review for nightmare on elm street 3: dream warriors, a (1987)
+Reviewer :  craig good
+Rate : N 0 (Heuristic - complete review)
+Snippet :  Yes, the inimitable Freddy Kroeger is back in NIGHTMARE ON ELM STREET PART III: THE DREAM WARRIORS. In addition to the awkward title the latest nightmare from Wes Craven has a few flaws. The Girl from the first film is back, and can't act her way through wet tissue.
+
+DocId : 0128
+Title : review for back to the beach (1987)
+Reviewer :  mark r. leeper
+Rate : N 0 (scale based)
+Snippet :  Twenty-five to twenty years ago, American International Pictures had targeted a teen-age audience and was churning out cheap films for a ready market. Their main staples were quickly-thrown-together horror films and their "Beach Party" series. That series included BEACH PARTY (1963), MUSCLE BEACH PARTY (1964), BIKINI BEACH (1964), PAJAMA
+
+DocId : 0004
+Title : review for angel heart (1987)
+Reviewer :  clark quinn
+Rate : P 1 (scale based)
+Snippet : Starring: Mickey Rourke, Robert DeNiro, Lisa Bonet, Charlotte Rampling Directed by: Alan Parker Produced by: Alan Marshall and Elliott Kastner Executive Producers: Mario Kassar and Andrew Vajna Screenplay by: Alan Parker From the novel: "Falling Angel" by William Hjortsberg Director of Photography: Michael Seresin I saw this movie at a
+
+DocId : 0005
+Title : review for angel heart (1987)
+Reviewer :  mark r. leeper
+Rate : P 1 (scale based)
+Snippet :  Harry Angel (played by Mickey Rourke) is a hard-boiled private eye in the Philip Marlowe tradition. He is a little crude, a little rude, and occasionally a little bit dense. His client is Louis Cyphre (played by Robert DeNiro), a recluse with a silver cane, pointed fingernails, and, like
+
+DocId : 0126
+Title : review for angelic conversation, the (1985)
+Reviewer :  william tsun-yuk hsu
+Rate : N 0 (Heuristic - complete review)
+Snippet :  Music by Ennio Morricone. This was supposed banned (somewhere) for many years. This early Algerian production is a gritty drama about the liberation of Algiers from the French. It's a fairly straightforward political thriller, and it's hard to tell why it was banned (perhaps for political reasons?). The only
+
+DocId : 0002
+Title : review for hitcher, the (1986)
+Reviewer :  mark r. leeper
+Rate : N -2 (scale based)
+Snippet : Capsule review: Boring actioner about a psychotic hitchhiker whom the scriptwriter makes unkillable. Contrived, unbelievable, and ultimately dull thriller is one more film to waste Rutger Hauer. [Editor's note: Sites running 2.10 netnews will munge headers of articles in moderated groups *not* named mod.something. If you get my name instead
+
+DocId : 0003
+Title : review for beyond therapy (1987)
+Reviewer :  steve fritzinger
+Rate : P 2 (scale based)
+Snippet : Set in the offices of two psychoanalysts, and in a very bad French restaurant, BEYOND THERAPY is a love story about two very confused people. Bruce (Jeff Goldblum) and Prudence (Julie Haggarty) meet through one of many personal ads Bruce has placed. They have a disastrous lunch, and leave expecting
+
+DocId : 0124
+Title : review for living daylights, the (1987)
+Reviewer :  peter reiher
+Rate : N 0 (Heuristic - complete review)
+Snippet :  The bi-annual Bond film has appeared again, and, thankfully, it's a great improvement on the last few. THE LIVING DAYLIGHTS is the best Bond film since FOR YOUR EYES ONLY, and, before that, one would have to go all the way back to the Sean Connery films to find
+
+DocId : 0088
+Title : review for trancers (1985)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : TRANCERS (USA, 1982) Director: Charles Band Screenwriters: Danny Bilson, Paul de Meo Cast: Tim Thomerson, Helen Hunt, Michael Stefani, Art La Fleur This film is probably familiar to those of you who have righteous cable service, but to those of us who don't, it's a mystery. It was made before
+
+DocId : 0121
+Title : review for stakeout (1987)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet :  There are all kinds of police films coming out this year. The more notable among them are THE UNTOUCHABLES, BEVERLY HILLS COPS II, LETHAL WEAPON, and DRAGNET. The newest addition to the list is John Badham's STAKEOUT. STAKEOUT is unlikely to earn at the boxoffice anything like those four
+
+DocId : 0089
+Title : review for jean de florette (1986)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Seen at the Seattle Film Festival: JEAN de FLORETTE (French, 1986) Director: Claude Berri Screenwriters: Claude Berri, Gerard Brach; based on a novel by Marcel Pagnol Cast: Yves Montand, Gerard Depardieu, Daniel Auteuil, Elisabeth Depardieu Subtitled This is the first half of what is being described as a "French Epic";
+
+DocId : 0122
+Title : review for adventures in babysitting (1987)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet :  Back in the 50s and 60s, society seemed safe and simple. With the exception of a few crime and juvenile delinquent films it seemed that if you simply behaved yourself you would lead a calm and placid existence. As we perceive society getting weirder, we see more films of
+
+DocId : 0008
+Title : review for nightmare on elm street 3: dream warriors, a (1987)
+Reviewer :  sean l. gilley
+Rate : N 0 (Heuristic - complete review)
+Snippet :  I really enjoyed the first of these three movies -- you never knew what was real and what was not, and you never knew what was going to happen. The idea of making the violence that happened in the dreams actually become real -- i.e. you get burned in
+
+DocId : 0129
+Title : review for who's that girl? (1987)
+Reviewer :  dan frank
+Rate : N 0 (Heuristic - complete review)
+Snippet :  Imagine this premise: a vaguely owlish junior member of New York society is due to be married to a spoiled, stupid socialite. By accident, he is saddled with a strange and impulsive woman, who gets him in a lot of trouble with his stuffy associates. There is a large
+
+DocId : 0009
+Title : review for lethal weapon (1987)
+Reviewer :  steve fritzinger
+Rate : N 0 (Heuristic - complete review)
+Snippet : LETHAL WEAPON is a light-weight action thriller that quickly degenerates to an extremely stupid movie.While a detective whose name I don't remember is investigating the murder of a friend's daughter, he and his new partner, Riggs, a suicidal burned-out ex-Vietnam sniper, stumble onto a heroin ring.
+
+DocId : 0020
+Title : review for raising arizona (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  Alright, new approach: I liked RAISING ARIZONA. Laughed throughout it. Wanted to write down quotes from it (this film has enough for three movie quizzes in it). Absolutely the best "zany" film to come along in two years, and the finest slapstick I've seen since THE GODS MUST BE
+
+DocId : 0021
+Title : review for lethal weapon (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  LETHAL WEAPON tends to be one of those marginal, on-the-border films; its qualities and weaknesses are glaring, and tend to cancel one another out. The story, which is nothing special, centers on an aging family-man police detective (Danny Glover) who is saddled with a series of drug-related crimes and
+
+DocId : 0017
+Title : review for evil dead ii (1987)
+Reviewer :  mark r. leeper
+Rate : P 1 (scale based)
+Snippet : Capsule review: There's more budget than logic to this stringing together of off-beat and semi-humorous horror scenes. Creative visual concepts abound and the pace is frenetic and that makes up for a multitude of sins. I guess in some sense THE EVIL DEAD II is the ultimate horror film...sort of...I
+
+DocId : 0018
+Title : review for raising arizona (1987)
+Reviewer :  peter reiher
+Rate : N 0 (Heuristic - complete review)
+Snippet :  I was a big fan of Joel and Ethan Coen's first film, "Blood Simple." I'm not sure if it's accurate to say that their new film, "Raising Arizona," is precisely a disappointment, but it certainly isn't at all what I expected, and I didn't really like it. "Raising Arizona"
+
+DocId : 0016
+Title : review for wizard of oz, the (1939)
+Reviewer :  evelyn c. leeper
+Rate : N 0 (Heuristic - complete review)
+Snippet : Most viewers see THE WIZARD OF OZ as merely a children's film, or as a fantasy that entertains without edifying. This is probably due to Baum's (and Fleming's) subtlety, since in reality the film is an intense philosophical statement. Consider for example Fleming's use of color. Reality, to Fleming, is
+
+DocId : 0013
+Title : review for hombre mirando al sudeste (1986)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet : Capsule review: A serious science fiction film from Argentina has a psychiatrist faced with a Christ-like patient who claims to be an alien. This is a film with a lot to say about psychiatry, hunger, charity, and religion. With that much to say it is, perhaps, over-ambitious. It does not do everything right but what is right is worth seeing.
+
+DocId : 0014
+Title : review for tin men (1987)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet : Capsule review: Chronicle of two aluminum-siding salesmen's personal and self-destructive feud is often very funny, sometimes serious, but always engrossing. This is a well-made comedy-drama by the director of DINER and THE NATURAL. Barry Levinson is quite a good director with films to his name like CATHOLICS, AND JUSTICE FOR
+
+DocId : 0011
+Title : review for bedroom window, the (1987)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet : Capsule review: In the best film thriller I have seen in a while, Steve Guttenberg pretends to have witnessed a crime his paramour actually saw. Before long, he is swept into an ever-worsening vortex of trouble and danger. I recently gave a fairly negative review to an attempted nightmarish thriller,
+
+DocId : 0099
+Title : review for adventures in babysitting (1987)
+Reviewer :  steve fritzinger
+Rate : N 0 (Heuristic - complete review)
+Snippet :  Chris is a high school senior from the suburbs of Chicago. After her boyfriend breaks their date, she agrees to baby-sit the Anderson's little girl. Soon after the parents leave, Chris gets a call from her best friend, Brenda. Brenda ran away, made it to the downtown bus station
+
+DocId : 0012
+Title : review for belizaire the cajun (1986)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet : Capsule review: Mark Twain-esque tale of murder and bigotry set in 1859 in Louisiana. Armand Assante plays a clever Cajun healer trying to protect his cousin and the whole Cajun community from local rednecks. This is an engrossing and enjoyable film that tells its story without any wrong moves. Recommended.
+
+DocId : 0019
+Title : review for raising arizona (1987)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet :  The Coen brothers have made another movie. Two years ago the then 29- year-old director Joel and the then 26-year-old producer Ethan made a superb story of murder and misunderstanding. BLOOD SIMPLE was a great first film and all the more amazing for having come from two unknowns. Joel
+
+DocId : 0031
+Title : review for stunt man, the (1980)
+Reviewer :  neil pollner
+Rate : N 0 (Heuristic - complete review)
+Snippet :  I have been enjoying reading about the various movies that people have been posting to this discussion of "great unknown movies." It must be obvious by now that one man's great unknown is another mans "sure everyone knows that." Be that as it may, here are my favorite "great
+
+DocId : 0032
+Title : review for brother sun, sister moon (1973)
+Reviewer :  mark r. leeper
+Rate : N 0 (Heuristic - complete review)
+Snippet :  There has been a good deal of discussion about unsung films (many of which among the film fans I know are at least somewhat "sung"). I want to recommend a film that I have never heard anyone else recommend. What makes it even odder is that it is a
+
+DocId : 0030
+Title : review for 'breaker' morant (1980)
+Reviewer :  steve upstill
+Rate : N 0 (Heuristic - complete review)
+Snippet : Speaking of unknown great movies, here is a short list of unknown/forgotten films that populate my all-time-favorite list. Face in the Crowd (1957) -- The writer-director team of the earlier Marlon Brando classic "On The Waterfront" collaborated on this melodrama of a bum from the South who gets on the
+
+DocId : 0028
+Title : review for lily tomlin (1986)
+Reviewer :  billy green
+Rate : P 2 (scale based)
+Snippet :  First of all, I wish to separate myself from "Enquiring Minds Want To Know" critics who went to this film hoping to see rumors come to life on the screen. I refuse to say things like, "What this film is *really* about is what the film will not show
+
+DocId : 0026
+Title : review for burglar (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  I hate having to echo Siskel & Ebert, but something *has* to be done about getting Whoopi Goldberg some decent scripts. Her latest film, BURGLAR, once again tantalizes us with brief glimpses of potential, but smothers it under ridiculous plotting and inadequate backup from supporting characters. The fact that
+
+DocId : 0027
+Title : review for hoosiers (1986)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  HOOSIERS is the first sports movie since THE NATURAL that I've liked, and maybe that's not surprising. After ROCKY came out, there were about fifty billion "sports underdog" films out, most of them pretty poor: track & field, gymnastics, kung fu, even bowling. But I've always found both basketball
+
+DocId : 0024
+Title : review for blind date (1987)
+Reviewer :  mark r. leeper
+Rate : N 0 (scale based)
+Snippet :  Blake Edwards has been making comedies for a long time. He may be best known for the Inspector Clouseau films that starred Peter Sellers. Edwards has turned out a comedy every year or so since the mid Fifties, and since the early Seventies he has made little but comedies.
+
+DocId : 0025
+Title : review for toxic avenger, the (1985)
+Reviewer :  mark r. leeper
+Rate : N -1 (scale based)
+Snippet : Capsule review: This is a feeble parody on super-hero comics that seems to have a following purely because it knocks New Jersey. It has crude production values, weak humor, and an inexplicable following. Generally I am not all that fond of parodies. A film gets no points just for being
+
+DocId : 0022
+Title : review for hollywood shuffle (1987)
+Reviewer :  steve fritzinger
+Rate : P 3 (scale based)
+Snippet :  With HOLLYWOOD SHUFFLE, first time writer/director Robert Townsend creates a very entertaining film. This good-natured parody of movie-making gets most of its laughs from gentle but well-aimed shots at the stereotypes connected to black actors and white film makers. Along the way HOLLYWOOD SHUFFLE takes time out to lampoon
+
+DocId : 0023
+Title : review for blind date (1987)
+Reviewer :  steve fritzinger
+Rate : P 1 (scale based)
+Snippet : Walter has a problem. He needs a date for a dinner party being thrown for one of his firms biggest clients. His regular girlfriend has stood him up at the last minute, and now he's desperate. Walter finally accepts a blind date with Nadia, a friend of his sister-in-law, and,
+
+DocId : 0042
+Title : review for extreme prejudice (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Warning: anyone offended by blatant, leering machismo had better avoid this film. Or lots of blood & guts, men against men and mano-et-mano stuff. In other words, it's a Walter Hill film! With a John Milius script! I always picture these guys getting together and producing a movie between arm-wrestling
+
+DocId : 0043
+Title : review for abel (1986)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Seen at the Seattle Film Festival: ABEL (Netherlands, 1986) Director/Writer: Alex van Warmerdam Cast: Alex van Warmerdam, Henri Garcin, Olga Zuiderhock, Annet Matherbe Subtitled ABEL is that standard staple of films everywhere, the family farce. Here we have a penthouse apartment inhabited by Abel, a 31-year-old eccentric who has never
+
+DocId : 0040
+Title : review for sherman's march (1986)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  It doesn't happen very often: you go to see a film that everyone--and I mean EVERYONE, from Siskel and Ebert on up to your closest friends, has said is a wonderful movie. And you sit through the film without enjoying it one whit. As I said, unusual; that you
+
+DocId : 0039
+Title : review for secret of my succe$s, the (1987)
+Reviewer :  greg woods
+Rate : P 1 (scale based)
+Snippet :  This is Michael J. Fox's ("Family Ties," BACK TO THE FUTURE) new movie. It is about a Kansas kid (Fox) who comes to New York to make it to the top. Old plot. It is fairly predictable all the way through, and requires a great deal of suspension of
+
+DocId : 0037
+Title : review for swimming to cambodia (1987)
+Reviewer :  steve upstill
+Rate : N 0 (Heuristic - complete review)
+Snippet :  SWIMMING TO CAMBODIA is an hour and a half of a man talking. Spalding Gray spent several weeks in Thailand acting a small part in the film THE KILLING FIELDS, and this film (a record of his performance before a live audience, in a perfomance gallery in New York)
+
+DocId : 0038
+Title : review for creepshow 2 (1987)
+Reviewer :  e. stephen mack
+Rate : N 0 (Heuristic - complete review)
+Snippet :  Even though... ...I was born in 1967, I am a big fan of EC Comics-style horror tales of the early 60's. CREEPSHOW and CREEPSHOW II [directed and screenplay by George Romero, based on stories by Stephen King] certainly pay homage to these comics, fondly perpetuating the style and its
+
+DocId : 0035
+Title : review for sherman's march (1986)
+Reviewer :  tod kuykendall
+Rate : N 0 (Heuristic - complete review)
+Snippet : SHERMAN'S MARCH is an interesting, somewhat offbeat movie by an indie filmmaker. A brief summary follows: Scene New York: Young struggling filmmaker from the South gets a grant to make a documentary about General Sherman's devastating march through the South. Before he can start, however, his girlfriend dumps him and
+
+DocId : 0036
+Title : review for raising arizona (1987)
+Reviewer :  gary benson
+Rate : N 0 (Heuristic - complete review)
+Snippet : This is the most fun I've had at a movie since BRAZIL. (Before BRAZIL, it was SILVER STREAK). That should tell you something about my orientation, so if you *hated* BRAZIL, you can probably stop reading now and assume you're going to loathe RAISING ARIZONA, too. Comedy movies usually leave
+
+DocId : 0033
+Title : review for long riders, the (1980)
+Reviewer :  billy green
+Rate : P 5 (scale based)
+Snippet : Another western (and I don't generally like westerns). Like GREASER'S PALACE, though, I don't really consider this one to be so much of a western. The focus of this film is the characters, not their guns. This is the western with the best gimmick of the decade--the James brothers are
+
+DocId : 0034
+Title : review for greaser's palace (1972)
+Reviewer :  billy green
+Rate : N 0 (Heuristic - complete review)
+Snippet : So you say that you thought HAIL MARY was controversial? This one makes HAIL MARY look like HOW THE GRINCH STOLE CHRISTMAS. Imagine, if you will, this scene. It is the old west. In a small town built around a saloon (called, "Greaser's Palace"), all the locals are gathered for
+
+DocId : 0053
+Title : review for lepke (1975)
+Reviewer :  mark r. leeper
+Rate : N 0 (scale based)
+Snippet : Capsule review: Minor gangster film about one of the most vicious crime lords and the only major American crime lord ever to get the death penalty. Fidelity to the truth is generally high with occasion serious lapses. Similar material has been done better. I do not watch gangster movies the
+
+DocId : 0054
+Title : review for koyaanisqatsi (1983)
+Reviewer :  stuart cracraft
+Rate : N 0 (Heuristic - complete review)
+Snippet : (This is a Francis Ford Coppola presentation, produced and directed by Godfrey Reggio, music by Philip Glass, cinematography by Ron Fricke.) This film is a visually dazzling, audio-inspiring, vaguely anti-war statement. It is pretty transparent, and I knew we were in trouble about 10 minutes into this film when it
+
+DocId : 0052
+Title : review for beverly hills cop ii (1987)
+Reviewer :  steve fritzinger
+Rate : P 2 (scale based)
+Snippet :  No one told Eddie Murphy and Robert D. Wachs that originality counts when they were writing BEVERLY HILLS COP II. Only the names (of the villains) and the crime have been changed to make this sequel. The first 10 minutes of BEVERLY HILLS COP II convinced me I was
+
+DocId : 0050
+Title : review for amazing grace and chuck (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Seen at the Seattle Film Festival: AMAZING GRACE AND CHUCK (USA, 1987) Director: Mike Newell Writer/Producer: David Field Cast: Joshua Zuehlke, Alex English, William L. Peterson, Dennis Lipcomb, Jamie Lee Curtis, Gregory Peck Every year--every year at the festival, I wait for that film to come along, that one that
+
+DocId : 0048
+Title : review for mitt liv som hund (1985)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Seen at the Seattle Film Festival: MY LIFE AS A DOG (Sweden, 1985) Director: Lasse Hallstrom Screenwriters: Lasse Hallstrom, Brasse Brannstrom, Pelle Berglund, Reidar Jonsson, from the novel by Jonnson Cast: Anton Glanzelius, Anki Liden, Tomas von Bromssen, Melinda Kinnaman Sub-titled Several years ago, I saw FANNY AND ALEXANDER, Ingmar
+
+DocId : 0049
+Title : review for right hand man, the (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Various films seen at the Seattle Film Festival:IT'S ALL TRUE/THREE MEN ON A RAFT (U.S.A., 1942/1986) Director: Orson Welles
+
+DocId : 0046
+Title : review for seven waves away (1957)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet : Capsule review: This is the story of an overcrowded lifeboat. It is a good treatment of the hard decision between being humanitarian and risking killing everyone on the lifeboat or being crueller but more realistic. This film tells more about the nature of disaster and how people react to it than all the disaster films Irwin Allen ever made.
+
+DocId : 0047
+Title : review for verge?t mozart (1985)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  FORGET MOZART is an interesting sideshow--and certainly a different approach--to another movie that recently dealt with the life (and death) of Mozart, AMADEUS. A West German production, FORGET MOZART was shot on the same sets--sometimes during recesses in the AMADEUS schedule--and the rest shot after AMADEUS had finished, but
+
+DocId : 0044
+Title : review for odd birds (1985)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Seen at the Seattle Film Festival: ODD BIRDS (USA, 1986) Director/Screenwriter: Jeanne Collachia Cast: Michael Moriarty, Donna Lei Ming Lew, Nancy Yee Ever have a film that, upon panning it, makes you feel like Snidely Whiplash? Makes you feel as if you tripped Shirley Temple and were proceeding to kick
+
+DocId : 0045
+Title : review for hollywood shuffle (1987)
+Reviewer :  mark r. leeper
+Rate : P 1 (scale based)
+Snippet : Capsule review: TV situation comedy punctuated with hilarious skits. Robert Townsend produced, directed, and starred in this comedy about the lack of roles for black actors in Hollywood. The story could have been better but the humor of the skits was right on target. What should I tell you about
+
+DocId : 0064
+Title : review for untouchables, the (1987)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet :  There are lots of ways to make a gangster film. You can make it as realistic as THE GODFATHER or as romanticized as A POCKET FULL OF MIRACLES. You can do a BONNIE AND CLYDE where the crooks are giants and the cops are midgets, or you can make
+
+DocId : 0065
+Title : review for prick up your ears (1987)
+Reviewer :  thuan n. p. nguyen
+Rate : P 3 (scale based)
+Snippet :  Summary: This new movie directed by Stephen Frears (THE HIT, MY BEAUTIFUL LAUNDRETTE) chronicles the relationship between British playwright Joe Orton and his lover Kenneth Halliwell. The story is [humorously] told through flashbacks and interviews with Orton's agent and relatives. The sixteen years from the time Orton meets Halliwell
+
+DocId : 0062
+Title : review for ishtar (1987)
+Reviewer :  neil pollner
+Rate : N 0 (Heuristic - complete review)
+Snippet :  I went and saw a 40-million dollar movie today--but guess what: it only cost me $4.50. And I adored it! I call that a deal. What's scary is that I almost didn't see this film because of all the negative reviews. Most critics branded ISHTAR a barely humorous, overly
+
+DocId : 0063
+Title : review for untouchables, the (1987)
+Reviewer :  steve upstill
+Rate : N 0 (Heuristic - complete review)
+Snippet : 5) Do you appreciate a script which NEVER makes you wince, and which consistently concocts novel, interesting approaches to pedestrian material and manages to take several surprising turns?9) Can you tolerate realistic bloodshed in the service of terrific action?
+
+DocId : 0060
+Title : review for star wars (1977)
+Reviewer :  mark r. leeper
+Rate : N 0 (Heuristic - complete review)
+Snippet :  This year marks the tenth anniversary of George Lucas's STAR WARS. I think it is fairly safe to say that for the fantasy film genre and for the film industry as a whole, the decade has been very different than might have been expected when Fox was telling theaters
+
+DocId : 0061
+Title : review for ishtar (1987)
+Reviewer :  neil pollner
+Rate : N 0 (Heuristic - complete review)
+Snippet :  Monday night while most of the world seemed to be on interstate roads, I took time out to see ISHTAR at my local theater (where everyone that wasn't on an interstate road was watching BEVERLY HILLS COP 2). And yes, I do go to movies that are younger then
+
+DocId : 0057
+Title : review for personal foul (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Seen at the Seattle Film Festival: PERSONAL FOUL (USA, 1987) Director/Writer: Ted Lichtenhaeld Cast: David Morse, Adam Arkin, Susan Wheeler Duff, F. William Parker This is a film that I was inclined to like at the outset: the two main characters had been involved with the fine television drama ST.
+
+DocId : 0058
+Title : review for high season (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Various films seen at the Seattle Film Festival:SOUTH BANK SHOW: MICHAEL POWELL (Great Britain, 1986) Director: David Hinton
+
+DocId : 0055
+Title : review for beyond the valley of the dolls (1970)
+Reviewer :  craig good
+Rate : N 0 (Heuristic - complete review)
+Snippet : I recently had the--um--opportunity to see BEYOND THE VALLEY OF THE DOLLS at the Pacific Film Archive in Berkeley. Among the odiferous genre known as Badfilm this one stands out as a pungent weed: a film that is skillfully bad. Imagine all the worst of the late Sixties (the film
+
+DocId : 0056
+Title : review for la bamba (1987)
+Reviewer :  clark quinn
+Rate : P 2 (scale based)
+Snippet : Starring: Esai Morales, Rosana DeSoto, Elizabeth Pena, Joe Pantoliano, Lou Diamond Phillips Music by: Carlos Santana and Miles Goodman Director of Photography: Adam Greenberg Executive Music Producer: Joel Sill Executive Producer: Stuart Benjamin Produced by: Taylor Hackford and Bill Borden Written and Directed by: Luis Valdez Luis Valdez (ZOOT SUIT)
+
+DocId : 0075
+Title : review for witches of eastwick, the (1987)
+Reviewer :  martin maenza
+Rate : N 0 (Heuristic - complete review)
+Snippet :  I saw THE WITCHES OF EASTWICK on its opening weekend, and I found it to be a highly interesting movie. I would recommend it to moviegoers--especially those who like their drama with a slight bit of comedy. I would not in the least place this film in a genre
+
+DocId : 0076
+Title : review for harry and the hendersons (1987)
+Reviewer :  bernie keany
+Rate : N 0 (Heuristic - complete review)
+Snippet : At the risk of being scoffed off the group, I'm posting a few favorable comments about HARRY AND THE HENDERSONS. While I realize Siskel and Ebert had nothing good to say about this film, I enjoyed it--a lot. The film revolves around Harry, a "Bigfoot," who is unfortunate enough to
+
+DocId : 0073
+Title : review for tampopo (1986)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  I have to give credit to the Japanese filmmakers over the last two years; they are producing some of the funniest films to grace the Film Festival. Latest in the rostrum (and heavily recommended via word of mouth from NPR, Pauline Kael) is TAMPOPO, a story of a widowed
+
+DocId : 0074
+Title : review for witches of eastwick, the (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  I'm not sure I should be writing a review of THE WITCHES OF EASTWICK, because I'm not sure just what the hell (pardon the expression) was going on in it. However, I can express the most important observation I made of it, i.e. I didn't like it. If I
+
+DocId : 0071
+Title : review for predator (1987)
+Reviewer :  mark r. leeper
+Rate : N 0 (Heuristic - capsule)
+Snippet : Capsule review: Arnold Schwarzenegger meets an alien with a cloaking device while on a commando mission in Central America. Action films are pretty common, but the concept of the cloaking device coupled with decent special effects are a boon. When I was growing up and into comics, one kind of
+
+DocId : 0072
+Title : review for tampopo (1986)
+Reviewer :  mark r. leeper
+Rate : P 1 (scale based)
+Snippet : Capsule review: High-calorie comedy about one restaurant's quest for the perfect noodle soup. Enjoyable comedy from Japan includes several comedy sketches unrelated to the main story, but which help to buoy it up. Are you into food? I mean, are you REALLY into food? And when you get the food,
+
+DocId : 0070
+Title : review for untouchables, the (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  It strikes me as appropriate that THE UNTOUCHABLES comes out approximately ten years after STAR WARS opened, because this film belongs to a tradition that began with George Lucas's classic space opera, the high-charged "Summer Spectacular" (nit-pickers could argue that Spielberg's JAWS began it all, but there was too
+
+DocId : 0105
+Title : review for innerspace (1987)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet : Capsule review: FANTASTIC VOYAGE crossed with FOUL PLAY makes for another science fiction comedy cut from the same mold as BACK TO THE FUTURE. INNERSPACE does not always make sense, but it is just about always fun. (Spoiler warning: major elements of the plot are presented first as minor surprise plot twists. Read the following at your own risk.)
+
+DocId : 0106
+Title : review for robocop (1987)
+Reviewer :  steve fritzinger
+Rate : N 0 (Heuristic - complete review)
+Snippet :  The Terminator is back, and this time he's a good guy. In this future the police force is run as a for-profit division of Security Concepts Inc., and an up-and-coming young executive thinks he can eliminate crime and get himself a vice-presidency with his Robocop project. Peter Weller is
+
+DocId : 0103
+Title : review for my beautiful laundrette (1985)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet : Capsule review: A serious plot rife with unexpected twists combines with some nice comic touches to make this film about a Pakistani family a memorable one. This film portrays some Pakistanis as having faults, hence it is the center of controversy, but it probably gives a realistic picture of what one extended family in London's Pakistani community might be like.
+
+DocId : 0104
+Title : review for quiet earth, the (1985)
+Reviewer :  mark r. leeper
+Rate : P 1 (scale based)
+Snippet : [This film has recently been released to cable. -ecl] In 1951 Arch Oboler made the film FIVE about a limited number of people who had survived a nuclear war. Every so often Hollywood makes another film about the last handful of people in a post-holocaust world. Notable was THE WORLD,
+
+DocId : 0068
+Title : review for believers, the (1987)
+Reviewer :  mark r. leeper
+Rate : N -1 (scale based)
+Snippet : Capsule review: Ugly, unpleasant urban horror film about a voodoo-like religion in New York City. There is nothing original or creative and little enjoyable in the film. If John Schlesinger can make films like MIDNIGHT COWBOY, that's really what he should be doing. There hasn't been a horror film like
+
+DocId : 0101
+Title : review for innerspace (1987)
+Reviewer :  steve fritzinger
+Rate : N 0 (Heuristic - complete review)
+Snippet :  INNERSPACE retells the FANTASTIC VOYAGE story, this time going for, and getting, laughs. Dennis Quaid plays Tuck Pendelton, a washed-up fighter pilot with an ego the size of a truck. He is to man the first miniaturized exploration of a living animal. When the experiment is interrupted by industrial
+
+DocId : 0069
+Title : review for witches of eastwick, the (1987)
+Reviewer :  mark r. leeper
+Rate : N 0 (scale based)
+Snippet : Capsule review: Broadband supernatural comedy has insight, slapstick, violence, horror, special effects, sophisticated comedy, profanity, a monster, vomit scenes, Jack Nicholson, Michelle Pfeiffer, Susan Sarandon, and Cher. For fans of six or seven of the above only. John Updike is a prize-winning writer of serious literature about people finding their
+
+DocId : 0102
+Title : review for dragnet (1987)
+Reviewer :  mark r. leeper
+Rate : N -1 (scale based)
+Snippet : Capsule review: Parody of successful summertime action movies with Dan Aykroyd doing impressions of Jack Webb. It is unclear how Aykroyd found out how Webb talks as he has apparently never seen an episode of DRAGNET. Dan Aykroyd grew up in the 50s and 60s; later in improvisational comedy he
+
+DocId : 0066
+Title : review for prick up your ears (1987)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet : Capsule review: The true story of the homosexual relationship of successful playwright Joe Orton and his equally talented but much less successful "wife," Kenneth Halliwell. This is a solid dramatic film and one of the year's best. It would be nice to feel that success is a matter of talent
+
+DocId : 0067
+Title : review for believers, the (1987)
+Reviewer :  hal render
+Rate : N 0 (Heuristic - complete review)
+Snippet :  I just saw THE BELIEVERS last night. Overall impression: pretty scary. The film details the involvement of a police psychiatrist (Martin Sheen) in a string of grisly crimes which involve an ancient Caribbean religion. The pace escalates as Sheen's family become threatened, and the power of the forces against
+
+DocId : 0109
+Title : review for straight to hell (1987)
+Reviewer :  steve fritzinger
+Rate : N 0 (Heuristic - complete review)
+Snippet :  In STRAIGHT TO HELL, three inept hitmen/bankrobbers and their moll spend four days hiding out south of the border. Which border is never really clear, but they have defiantly crossed into a weird place. On the lam in a town run by Irish bandits, they drink a lot of
+
+DocId : 0107
+Title : review for robocop (1987)
+Reviewer :  mark r. leeper
+Rate : P 1 (scale based)
+Snippet : Capsule review: Featherweight and violent super-hero comic book on film about a cyborg policeman protecting the streets of Detroit. Paul Verhoeven is one of the last directors I would expect to make this fun but unoriginal action film. The place is Detroit. the time is some undefinable date in the
+
+DocId : 0108
+Title : review for robocop (1987)
+Reviewer :  craig good
+Rate : N 0 (Heuristic - complete review)
+Snippet :  Yo! What a summer we're having! If you can't find a movie to jazz you this year then you were weaned on a pickle. And just when I though 1987 had peaked, enter ROBOCOP. Remember how STAR WARS combined a lot of things you had seen before into something
+
+DocId : 0086
+Title : review for spaceballs (1987)
+Reviewer :  craig good
+Rate : N 0 (Heuristic - complete review)
+Snippet :  Gary Rydstrom, the talented sound designer who did "Luxo Jr." for us, told me about his plans to record some laughing children for our next film. He said it was going to be easy to make the whole day care center giggle: just say "underpants." I can't help but
+
+DocId : 0087
+Title : review for coming up roses (1986)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  This is certainly one of the more unusual films to come along during the festival--a foreign language film shot in the heart of England. In other words, the film is about a community in Wales, and (properly) the actors speak in Welsh, with English subtitles. The story is reminiscent
+
+DocId : 0120
+Title : review for living daylights, the (1987)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet :  Pretty close to a quarter of a century ago the first James Bond film blazed (at times literally) across the screen. It presented a lithe young Bond played, of course, by Sean Connery. It was popular, so a second one was made to give the audiences more. As each
+
+DocId : 0084
+Title : review for straight to hell (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Seen at the Seattle Film Festival: STRAIGHT TO HELL (USA, 1987) Director: Alex Cox Screenwriters: Alex Cox, Dick Rude Cast: Joe Strummer, Cy Richardson, Dick Rude, Courtney Love, Dennis Hopper, Grace Jones, Elvis Costello, Jim Jarmusch, and The Pogues Certainly one of the most eagerly awaited films at this year's
+
+DocId : 0085
+Title : review for predator (1987)
+Reviewer :  steve fritzinger
+Rate : P 1 (scale based)
+Snippet : Arnold Schwarzenegger leads a team of elite mercenaries through a Central American jungle to rescue a captured "Cabinet Minister" from communist-backed rebels. Along the way he deals with a treacherous CIA agent, about a hundred insurgents, and an alien sportsman doing a little trophy hunting. The "plot" of PREDATOR is
+
+DocId : 0082
+Title : review for innerspace (1987)
+Reviewer :  tim larison
+Rate : N 0 (scale based)
+Snippet :  INNER SPACE, the latest release produced by Steven Spielberg, is a fun two-hour romp with the same flair that made BACK TO THE FUTURE such a hit. The story involves a top-secret military project to inject a miniaturized pilot and his high-tech submarine into the blood stream of a
+
+DocId : 0083
+Title : review for personal services (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Seen at the Seattle Film Festival: PERSONAL SERVICES (Great Britain, 1986) Director: Terry Jones Screenwriter: David Leland Cast: Julie Walters, Alec McCowen, Shirley Stelfox, Danny Schiller This is, unless you are rather prudish about sexual matters, a pretty funny film, but it really doesn't get rolling until after the first
+
+DocId : 0080
+Title : review for weapons of the spirit (1990)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  This is not a particularly good world, or a good country, or a good era, for idealists to live in. Cynicism is easily promoted in almost every moral and ethical area involved in our lives: scandals in religion, conflicts of interests in politics, general apathy in dealing with what
+
+DocId : 0081
+Title : review for ping pong (1986)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet : Seen at the Seattle Film Festival: PING PONG (Great Britain, 1986) Director: Po Chih Leong Screenwriter: Jerry Liu Cast: Lucy Sheen, David Yip, Robert Lee, Lam Fund, Victor Kan I'll be darned.... Another 'A' film, to take its place alongside AMAZING GRACE AND CHUCK, MY LIFE AS A DOG, and
+
+DocId : 0116
+Title : review for superman iv: the quest for peace (1987)
+Reviewer :  jon glazer
+Rate : N 0 (Heuristic - complete review)
+Snippet : I just got back from seeing the new SUPERMAN IV: THE QUEST FOR PEACE. What a joke! The theatre was anything but peaceful; everyone kept laughing at the unreal circumstances Mr. "man" kept getting into and out of. As you'll notice in the opening credits (in the end ones too,
+
+DocId : 0117
+Title : review for superman iv: the quest for peace (1987)
+Reviewer :  rosenzw@svax.cs.cornell.edu
+Rate : N 0 (Heuristic - complete review)
+Snippet : This has got to be the worst movie I've blown five bucks on in a very long time. Parts of it were, however, so bad that they were funny (Look, up in the sky, it's a bird, it's a plane - it's a statue! ). By the way, after irrelevant
+
+DocId : 0114
+Title : review for fly, the (1986)
+Reviewer :  mark r. leeper
+Rate : N 0 (Heuristic - complete review)
+Snippet :  THE FLY has been considered one of the great science fiction horror films for many years. Perhaps millions of children have frightened younger brothers and sisters with falsetto cries of "Help me! Please! Help me!" It was a natural for a remake and in 1984 Brooksfilm bought a screen
+
+DocId : 0115
+Title : review for superman iv: the quest for peace (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  I really shouldn't be surprised; in fact, I should have avoided this on principle; but I really enjoyed SUPERMAN and thought SUPERMAN II was adequate, and seeing Gene Hackman's name on the roster (and David and Leslie Newman's names off it) gave me some hope that we might have
+
+DocId : 0079
+Title : review for project x (1987)
+Reviewer :  mark r. leeper
+Rate : P 1 (scale based)
+Snippet :  The last time I watched John Badham's film WARGAMES (at least I hope it was the last time!), I counted what I thought were technical errors in the film. I came up with an average of one every 120 seconds. When I read that the scripters of WARGAMES had
+
+DocId : 0112
+Title : review for la bamba (1987)
+Reviewer :  ellen eades
+Rate : N 0 (Heuristic - complete review)
+Snippet :  By this I mean that it's very difficult for me to really enjoy a movie that contains masterpieces of scary-monster makeup, things that go bump in the night, or sex that is so steamy I start feeling vicariously sore, or that acquaints me intimately with things that should have
+
+DocId : 0113
+Title : review for robocop (1987)
+Reviewer :  dale l. skran, jr.
+Rate : N 0 (Heuristic - complete review)
+Snippet :  Let us cross pens. Mark and I have a number of long-running debates, including one on the value of movies like DREAMSCAPE, TERMINATOR, and ROBOCOP, and another on the adaptability of super-hero comics to film. If I may be somewhat cavalier, Mark tends to feel these films are unexceptional,
+
+DocId : 0077
+Title : review for full metal jacket (1987)
+Reviewer :  mark r. leeper
+Rate : P 2 (scale based)
+Snippet :  Well, the Vietnam War film seems to be with us at last. While the war went on and for a good while afterward it seemed a taboo subject. People, and in particular film backers, did not want to make films about so downbeat a subject. With the passing of
+
+DocId : 0110
+Title : review for lost boys, the (1987)
+Reviewer :  mark r. leeper
+Rate : P 1 (scale based)
+Snippet : Capsule review: Moody photography and baroque sets constitute most of the value of this punk-vampire film about the undead on motorcycles and pre-teen Van Helsings. The story plays a little fast and loose with traditional vampire lore. Back when Hammer Films was making its best vampire films--and they were some
+
+DocId : 0078
+Title : review for full metal jacket (1987)
+Reviewer :  craig good
+Rate : N 0 (Heuristic - complete review)
+Snippet :  Stanly Kubrick hasn't made a movie since THE SHINING, making FULL METAL JACKET one of the most anticipated films of the year. It would be a mistake to call it a "me too" follow-up to PLATOON, but comparisons between the two films are going to be unavoidable. What they
+
+DocId : 0111
+Title : review for summer school (1987)
+Reviewer :  dan frank
+Rate : N 0 (Heuristic - complete review)
+Snippet :  It's gotten to the point now that when I see a Carl Reiner film advertised, I say, "Aha! That's like a Rob Reiner film, except that it's not original!" Both father and son make technically clean movies with good laughs and pleasant people. Apparently, Rob takes a little more
+
+DocId : 0118
+Title : review for living daylights, the (1987)
+Reviewer :  craig good
+Rate : N 0 (Heuristic - complete review)
+Snippet :  After the last Bond flick I thought that 007 was dead. The plot had become metastasized with silliness, and Roger Moore was beginning to creak. The rumors about Pierce Brosnan confirmed that the movies were about to descend into terminal foppishness. The long-running series of James Bond adventures were
+
+DocId : 0119
+Title : review for living daylights, the (1987)
+Reviewer :  jeff meyer
+Rate : N 0 (Heuristic - complete review)
+Snippet :  Well, yes, I enjoyed THE LIVING DAYLIGHTS, not just parts of it, but the entire film, straight through. The Friday night audience I was in laughed uproariously several times and seemed to come out with pretty pleased expressions on their collective faces. However, for those of you who are
+

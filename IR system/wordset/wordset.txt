@@ -1,0 +1,156 @@
+Great,1
+Phenomenal,1
+Superb,1
+Cool,1
+Out Of Sight,1
+Excellent,1
+Unbelievable Work,1
+Thumbs Up,1
+You've Got It,1
+Way To Go,1
+Terrific,1
+Outstanding,1
+Outstanding Performance,1
+Outdone,1
+Marvelous,1
+Amazing,1
+Bravo,1
+Exceptional,1
+Breathtaking,1
+Wonderful,1
+Good Work,1
+Fantastic,1
+Proud,1
+good,1
+Very Good,1
+Stupendous,1
+Sensational,1
+A+,1
+Awesome,1
+Couldn't Be Better,1
+Made The Difference,1
+Take A Bow,1
+Super Job,1
+Unique,1
+Thoughtful,1
+Nice,1
+Well Done,1
+Inspiring,1
+Artistic,1
+Wow,1
+Tops,1
+Amazing,1
+great,1
+Joy,1
+Star,1
+Spectacular,1
+Remarkable,1
+Extraordinary,1
+Winner,1
+Incredible,1
+Sweet,1
+Genius,1
+Natural,1
+Brave,1
+Sharp,1
+Congratulations,1
+Proud,1
+Impressed,1
+Talented,1
+Great Discovery,1
+Champ,1
+Magnificent,1
+Outstanding,1
+Love,1
+Beautiful,1
+Clever,1
+Brilliant,1
+Perfect,1
+Expressive,1
+Improved,1
+Keep It Up,1
+Nice One,1
+Incomparable,1
+Appreciate,1
+Stunning,1
+You Rock,1
+Wonderful,1
+Worthy Of An Oscar,1
+Super Duper,1
+Great Dedication,1
+Top Notch,1
+Hats Off,1
+Good Try,1
+Courageous,1
+Great Enthusiasm,1
+Masterpiece,1
+interesting,1
+funny,1
+decent,1
+impressive,1
+accomplishment,1
+must see,1
+must watch,1
+go see,1
+first-rate,1
+insightful,1
+clever,1
+charming,1
+comical,1
+charismatic,1
+enjoyable,1
+uproarious,1
+original,1
+tender,1
+hilarious,1
+absorbing,1
+sensitive,1
+riveting,1
+intriguing,1
+powerful,1
+fascinating,1
+pleasant,1
+surprising,1
+dazzling,1
+thought provoking,1
+imaginative,1
+legendary,1
+unpretentious,1
+thriller,1
+flawless,1
+stupid,-1
+disappointment,-1
+strange,-1
+wasted,-1
+moron,-1
+crazy,-1
+second-rate,-1
+violent,-1
+moronic,-1
+third-rate,-1
+flawed,-1
+juvenile,-1
+boring,-1
+distasteful,-1
+ordinary,-1
+disgusting,-1
+senseless,-1
+static,-1
+brutal,-1
+confused,-1
+disappointing,-1
+bloody,-1
+silly,-1
+tired,-1
+predictable,-1
+stupid,-1
+uninteresting,-1
+weak,-1
+tiresome,-1
+trite,-1
+uneven,-1
+cliché,-1
+cliche ridden,-1
+outdated,-1
+dreadful,-1
+bland,-1
